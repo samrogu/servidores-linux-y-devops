@@ -1,1 +1,21 @@
 # Administracion de Servidores Linux y DevOps
+
+- Linux
+    - Introduccion a linux
+        - Permisos de usarios
+        - busqueda de archivos  
+    - Administracion de un servidor Centos
+    - Administracion de un servidor Debian.
+    - Programacion bash
+- DevOps
+    - Introduccion a docker
+    - Docker Swarm
+    - Kubernetes
+    - Introduccion a Jenkins
+    - Ansible
+    - Packer
+    - Terraform
+    - Jenkins Avanzado
+    - GOCD
+    - Monitoreo
+    - Excepciones y logs
