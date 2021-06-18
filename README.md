@@ -9,7 +9,7 @@
         - Busqueda de archivos (find, grep, tail, head, which, awk)
         - Detectar nombre de distribucion y version.
         - Manipular procesos (top, ps, kill)
-        - Introducion a editor vi
+        - Introduccion a editor vi
     - Administracion de un servidor (Centos y Debian)
         - Instalacion de sistema operativo
         - Gestion de usuarios.
