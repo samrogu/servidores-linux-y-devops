@@ -2,20 +2,90 @@
 
 - Linux
     - Introduccion a linux
-        - Permisos de usarios
-        - busqueda de archivos  
-    - Administracion de un servidor Centos
-    - Administracion de un servidor Debian.
+        - administracion de archivos (cp, mv, rm, touch, cat) 
+        - Administracion de directorios (mkdir)
+        - Creacion de usuarios.
+        - Gestion de permisos (chmod)
+        - Busqueda de archivos (find, grep, tail, head, which, awk)
+        - Detectar nombre de distribucion y version.
+        - Manipular procesos (top, ps, kill)
+        - Introducion a editor vi
+    - Administracion de un servidor (Centos y Debian)
+        - Instalacion de sistema operativo
+        - Gestion de usuarios.
+        - Gestion de grupos.
+        - Seguridad de terminal (SSH y SFTP)
+        - Gestion de paquetes (yum, update)
+        - Gestion de redes.
+            - Host
+            - Resolve
+            - system network
+        - OpenLDAP 
+        - Instalacion de servidor web nginx
+        - Instalacion de servidor web apache
+        - Manejo de crons
+        - Administracion de puertos.
     - Programacion bash
+        - Variables
+        - tipos de datos
+        - Arreglos
+        - Parametros
+        - Estrudaras condicionales
+        - Estructuras de control
+        - funciones
+        - Salida de datos
 - DevOps
-    - Introduccion a docker
+    - docker
+        - Introducion
+        - Instalacion
+        - Contenedores
+        - Imagenes
+        - Volumnes
+        - Redes
+        - Despliegue de un api rest
+        - Docker-compose
+        - Registry (Local, DockerHub)
     - Docker Swarm
+        -  Introduccion
+        -  Crear un cluster (Master y Nodos)
+        -  Gestion de Servicios (Scales)
+        -  Stacks de servicios
     - Kubernetes
+        - Introduccion
+        - Instalacion
+        - Pods
+        - Servicios
+        - Despliegues 
     - Introduccion a Jenkins
+        - Introduccion
+        - Instalacion
+        - Creacion de pipeline
+        - Builds de aplicacion.
+        - Conectar con docker / Kubernetes
     - Ansible
+        - Introduccion
+        - instalacion
+        - Intrucciones basicas
+        - Automatizar instalacion de nginx
+        - Automatizar instalacion de Jenkins (docker, plugins, Ejecutar pipeline)
     - Packer
+        - Introduccion
+        - Instalacion
+        - Intrucciones basicas
+        - Creacion de Imagen.
+        - Creacion de imagen de AWS/GCP de Jenkins
     - Terraform
+        - Introducion
+        - Instalacion
+        - Creacion de instancia
+        - Creacion de variables
+        - Gestion de estados
+        - Definicion de grupos de seguridad
+        - Definicion de network
+        - Definicion de Load Balance
     - Jenkins Avanzado
     - GOCD
     - Monitoreo
     - Excepciones y logs
+    - CICD con Gitlab
+    - CICD con Github
